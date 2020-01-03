@@ -6,3 +6,5 @@ Uses HTMLUnit to navigate https://globalsearch.cuny.edu/CFGlobalSearchTool/searc
 Does the same thing as it's JavaScript counterpart but also notifies the user that their class is open. 
 
 NOTE: Program requires the JavaMail API to work, it can be found here: https://www.oracle.com/technetwork/java/javamail/index.html
+
+it also needs HTMLUnit which is used to navigate the webpages: http://htmlunit.sourceforge.net/
